@@ -69,4 +69,6 @@ Once the die is fully encapsulated and protected, **laser marking** is used to i
 ---
 
 ## 🧠 Summary Process Flow Diagram
+![image](https://github.com/user-attachments/assets/49eb835b-b6d9-4f2d-8755-b948d9f39496)
+
 
