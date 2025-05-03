@@ -1,16 +1,16 @@
-# 🔥 Thermal Analysis of Flip Chip BGA Package using Ansys Icepak
+#  Thermal Analysis of Flip Chip BGA Package using Ansys Icepak
 
 This guide explains how to simulate a **Flip Chip BGA (Ball Grid Array)** package in **Ansys Icepak**, including material setup, power input definition, meshing, running thermal analysis, and result visualization.
 
 ---
 
-## 📦 What is a Flip Chip BGA Package?
+##  What is a Flip Chip BGA Package?
 
 A **Flip Chip BGA** is a chip packaging technique where the silicon die is flipped and mounted directly onto the substrate using solder bumps. This allows shorter electrical paths and improved thermal performance compared to wire bonding.
 
 ---
 
-## 🧱 Step-by-Step Setup in Ansys Icepak
+## Step-by-Step Setup in Ansys Icepak
 
 ![image](https://github.com/user-attachments/assets/d1f60516-628b-4741-9779-df2ab378d991)
 
