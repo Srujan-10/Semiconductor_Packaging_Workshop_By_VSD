@@ -6,7 +6,7 @@ Welcome to the comprehensive learning repository on Semiconductor Packaging, cov
 
 ---
 
-## [Module 1: Packaging Evolution – From Basics to 3D Integration].(https://github.com/Srujan-10/Semiconductor_Packaging_Workshop_By_VSD/tree/main/Module-1%3A%20Basics_of%20packaging).
+## [Module 1: Packaging Evolution – From Basics to 3D Integration](https://github.com/Srujan-10/Semiconductor_Packaging_Workshop_By_VSD/tree/main/Module-1%3A%20Basics_of%20packaging).
 
 Lessons:
 - L1: Introduction to Semiconductor Packaging and Industry Overview
