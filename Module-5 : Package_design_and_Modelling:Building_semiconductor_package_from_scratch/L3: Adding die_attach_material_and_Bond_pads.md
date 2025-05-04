@@ -17,7 +17,7 @@
 
 ## Final Structure
 
-- Top Layer: DIE (0.2 mm)
+- Top Layer: DIE (0.2 mm thick)
 - Middle Layer: DIE_ATTACH (0.1 mm)
 - Bottom Layer: SUBSTRATE (0.5 mm)
   ![Screenshot 2025-05-04 012741](https://github.com/user-attachments/assets/2882a480-301a-4b0d-bc2d-c4aa43a3971b)
@@ -33,8 +33,8 @@ Create bond pads on top of the DIE for wire bonding or flip-chip connectivity.
 ## Step-by-Step Instructions:
 
 ### 1. Define Pad Dimensions
-- **Width**: 100 µm (0.1 mm)
-- **Height**: 100 µm (0.1 mm)
+- **Width**: 100 µm (0.2 mm)
+- **Height**: 100 µm (0.2 mm)
 - **Thickness**: 5 µm (0.005 mm)
 
 > Adjust dimensions if your design requires specific pad size.
