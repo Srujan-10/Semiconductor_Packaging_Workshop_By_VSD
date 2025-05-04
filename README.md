@@ -6,14 +6,14 @@ Welcome to the comprehensive learning repository on Semiconductor Packaging, cov
 
 ---
 
-## Module 1: Packaging Evolution – From Basics to 3D Integration
+## [Module 1: Packaging Evolution – From Basics to 3D Integration].(https://github.com/Srujan-10/Semiconductor_Packaging_Workshop_By_VSD/tree/main/Module-1%3A%20Basics_of%20packaging).
 
 Lessons:
-- [L1: Introduction to Semiconductor Packaging and Industry Overview]
-- [L2: Understanding Package Requirements and Foundational Package Types]
-- [L3: Evolving Package Architectures – From Single Chip to Multi-Chip Modules]
-- [L4: Interposers, Redistribution Layers, and 2.5D/3D Packaging Approaches]
-- [L5: Comparative Analysis and Selecting the Right Packaging Solution]
+- L1: Introduction to Semiconductor Packaging and Industry Overview
+- L2: Understanding Package Requirements and Foundational Package Types
+- L3: Evolving Package Architectures – From Single Chip to Multi-Chip Modules
+- L4: Interposers, Redistribution Layers, and 2.5D/3D Packaging Approaches
+- L5: Comparative Analysis and Selecting the Right Packaging Solution
 
 ---
 
