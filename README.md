@@ -17,7 +17,7 @@ Lessons:
 
 ---
 
-## Module 2: From Wafer to Package – Assembly and Manufacturing Essentials
+## [Module 2: From Wafer to Package – Assembly and Manufacturing Essentials](https://github.com/Srujan-10/Semiconductor_Packaging_Workshop_By_VSD/tree/main/Module-2-From_Wafer_To_Package_supply_chain_essentials).
 
 Lessons:
 - L1: Setting the Stage – Supply Chain and Facilities
@@ -28,14 +28,14 @@ Lessons:
 
 ---
 
-## Module 3: Labs – Thermal Simulation of Semiconductor Packages with ANSYS
+## [Module 3: Labs – Thermal Simulation of Semiconductor Packages with ANSYS](https://github.com/Srujan-10/Semiconductor_Packaging_Workshop_By_VSD/tree/main/Module-3%3A%20Thermal_Simulation_of_Semiconductor_packages_with_ANSYS_Desktop).
 
 Practical:
 - Flip-Chip BGA Package Thermal Analysis in ANSYS Icepak
 
 ---
 
-## Module 4: Ensuring Package Reliability – Testing and Performance Validation
+## [Module 4: Ensuring Package Reliability – Testing and Performance Validation](https://github.com/Srujan-10/Semiconductor_Packaging_Workshop_By_VSD/tree/main/Module%204%20-%20Ensure_Package_Testing_and_performance_validation).
 
 Lessons:
 - L1: Introduction to Package Testing and Electrical Functionality Checks
@@ -43,7 +43,7 @@ Lessons:
 
 ---
 
-## Module 5: Package Design and Modeling – Building a Semiconductor Package from Scratch
+## [Module 5: Package Design and Modeling – Building a Semiconductor Package from Scratch](https://github.com/Srujan-10/Semiconductor_Packaging_Workshop_By_VSD/tree/main/Module-5%20%3A%20Package_design_and_Modelling%3ABuilding_semiconductor_package_from_scratch).
 
 Lessons:
 - L1: Introduction to Package Cross-Section Modeling in ANSYS Electronics Desktop (AEDT)
