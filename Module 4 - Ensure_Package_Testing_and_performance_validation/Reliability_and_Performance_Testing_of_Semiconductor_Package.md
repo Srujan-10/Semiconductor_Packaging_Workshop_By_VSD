@@ -1,13 +1,13 @@
-# 🔥 Burn-in Test
+#  Burn-in Test
 
 
 
-## 🎯 Objective
+##  Objective
 To test semiconductor packages under **elevated stress conditions** (temperature, voltage, power cycling) to detect early-life failures, also known as **"Infant Mortality"**.
 
 ---
 
-## 🧪 What is Burn-in?
+##  What is Burn-in?
 
 Burn-in involves running the components in **stressful environments** to **accelerate failure mechanisms**, ensuring that **only reliable devices** reach the customer.
 
@@ -18,16 +18,16 @@ Burn-in involves running the components in **stressful environments** to **accel
 
 ---
 
-## 🔄 Burn-in Process
+##  Burn-in Process
 
-1. ✅ **Parts loaded from trays** onto **Burn-in Boards**.
-2. 🔁 Boards are placed in **Burn-in Ovens** (Burn-in System).
-3. ⚡ **Stress conditions applied** for a specific duration.
-4. 📉 Parts are monitored to **identify early failures**.
+1.  **Parts loaded from trays** onto **Burn-in Boards**.
+2.  Boards are placed in **Burn-in Ovens** (Burn-in System).
+3.  **Stress conditions applied** for a specific duration.
+4.  Parts are monitored to **identify early failures**.
 
 ---
 
-## 📈 Why Burn-in?
+##  Why Burn-in?
 
 - Detects:
   - **Dielectric breakdown**
@@ -40,7 +40,7 @@ Burn-in involves running the components in **stressful environments** to **accel
 
 
 
-## 🔍 Reliability Curve
+##  Reliability Curve
 ![image](https://github.com/user-attachments/assets/508c9398-21a2-42b7-8366-61e5c1bd891c)
 
 
@@ -61,38 +61,38 @@ Failure Rate
         Early (Infant Mortality)
 
 
-# 🧪 Final Test using ATE & Handler
+#  Final Test using ATE & Handler
 
-## 🎯 Objective
+##  Objective
 To validate the **electrical performance of a packaged IC** under **temperature extremes** (hot and cold corners) using **Automated Test Equipment (ATE)**.
 
 ---
 
-## ⚙️ What is ATE?
+##  What is ATE?
 
 **ATE (Automated Test Equipment)** is used to perform precise electrical tests on semiconductor devices.
 
-- ✅ Measures performance across functional parameters
-- 🔁 Ensures compliance with **specifications and datasheets**
-- 🧠 Used in conjunction with a **handler** to automate DUT (Device Under Test) placement
+-  Measures performance across functional parameters
+-  Ensures compliance with **specifications and datasheets**
+-  Used in conjunction with a **handler** to automate DUT (Device Under Test) placement
 
 ---
 
-## 🧊🧯 Temperature Corner Testing
+##  Temperature Corner Testing
 
 Performed under **temperature-controlled conditions** (not ovens), to simulate realistic use cases.
 
-### 🔥 Hot Test
+###  Hot Test
 - Parts are tested at **elevated temperatures**.
 - Verifies **electrical behavior** meets high-temp specifications.
 
-### ❄️ Cold Test
+###  Cold Test
 - Parts are tested at **low temperatures**.
 - Ensures components function reliably under cold environmental conditions.
 
 ---
 
-## 🧳 Equipment Used
+##  Equipment Used
 
 - **Handler**: Loads and places ICs into ATE sockets at the correct temperature.
 - **Test Fixture**: Maintains the temperature and interfaces the DUT with ATE.
@@ -100,7 +100,7 @@ Performed under **temperature-controlled conditions** (not ovens), to simulate r
 
 ---
 
-## 📄 Specification Check (Example: LM741 OpAmp)
+##  Specification Check (Example: LM741 OpAmp)
 
 Based on the **datasheet absolute maximum ratings** and **electrical characteristics**:
 - Input offset voltage
@@ -113,7 +113,7 @@ Based on the **datasheet absolute maximum ratings** and **electrical characteris
 
 ---
 
-## 🧾 Summary
+##  Summary
 ![image](https://github.com/user-attachments/assets/bf57616a-8c65-4f13-b0ed-c28f0b67a1d9)
 
 
