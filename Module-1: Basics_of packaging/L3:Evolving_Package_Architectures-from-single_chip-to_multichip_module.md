@@ -1,5 +1,5 @@
 # L3:Evolving_Package Architectures from single chip-to_multichip module
-## 🧩 Package Structure and Material Options
+##  Package Structure and Material Options
 
 Every semiconductor package consists of three primary structural blocks:
 
@@ -9,7 +9,7 @@ Every semiconductor package consists of three primary structural blocks:
 
 ---
 
-### 🏗️ Carrier Material Options
+###  Carrier Material Options
 
 The **carrier** provides mechanical support and electrical connection between the die and the PCB. Depending on the application and performance needs, different materials are chosen:
 
@@ -25,7 +25,7 @@ The **carrier** provides mechanical support and electrical connection between th
 
 ---
 
-### 🔗 Interconnect Options
+###  Interconnect Options
 
 The **interconnect** links the die to the carrier. The two major interconnect technologies are:
 
@@ -35,14 +35,14 @@ The **interconnect** links the die to the carrier. The two major interconnect te
 | **Bump/Solder**   | Microscopic solder bumps used in flip-chip and BGA packaging   | High-density, high-speed designs  |
 
 ---
-## 🧱 Leadframe-Based Package Types
+##  Leadframe-Based Package Types
 
 Leadframe is a metal (usually copper or alloy) structure that supports the die and forms the electrical connections between the die and the PCB. It is widely used in many traditional and compact semiconductor packages.
 
 ---
 ![image](https://github.com/user-attachments/assets/61a3577f-2655-4470-bb44-5b685ff9ed09)
 
-### 📌 1. DIP (Dual In-line Package)
+###  1. DIP (Dual In-line Package)
 
 - **Structure**: Rectangular black plastic with two rows of pins (leads) on either side.
 - **Leadframe Role**: Forms internal leads from die to outer pins.
@@ -54,7 +54,7 @@ Leadframe is a metal (usually copper or alloy) structure that supports the die a
 
 ---
 
-### 📌 2. QFP (Quad Flat Package)
+###  2. QFP (Quad Flat Package)
 
 - **Structure**: Square or rectangular with leads extending from all four sides.
 - **Leadframe Role**: Fine-pitch leads from die to outer edges of the package.
@@ -66,7 +66,7 @@ Leadframe is a metal (usually copper or alloy) structure that supports the die a
 
 ---
 
-### 📌 3. QFN (Quad Flat No-Lead)
+###  3. QFN (Quad Flat No-Lead)
 
 - **Structure**: Square package with pads on the bottom edge (no protruding leads).
 - **Leadframe Role**: Used as the base; die is attached directly on the exposed pad.
@@ -78,7 +78,7 @@ Leadframe is a metal (usually copper or alloy) structure that supports the die a
 
 ---
 
-### 📌 4. CSP (Chip Scale Package)
+###  4. CSP (Chip Scale Package)
 
 - **Structure**: Package size is just slightly larger than the die.
 - **Leadframe Role** (for some types): Miniaturized or absent; sometimes replaced with direct die-attach methods.
@@ -90,7 +90,7 @@ Leadframe is a metal (usually copper or alloy) structure that supports the die a
 
 ---
 
-### 🧠 Summary of Leadframe-Based Packages
+###  Summary of Leadframe-Based Packages
 
 | Package | Mount Type     | Lead Type     | Size        | Common Use Cases             |
 |---------|----------------|---------------|-------------|------------------------------|
@@ -101,7 +101,7 @@ Leadframe is a metal (usually copper or alloy) structure that supports the die a
 
 ---
 
-## 🧱 Laminate-Based Package Types
+##  Laminate-Based Package Types
 
 Laminate substrates are made of resin-reinforced fiberglass (like BT or ABF material) and are used when packages require higher routing density, thermal performance, and I/O count than what leadframes can offer.
 
@@ -109,7 +109,7 @@ Laminate substrates are made of resin-reinforced fiberglass (like BT or ABF mate
 
 ![image](https://github.com/user-attachments/assets/6439a547-e1ce-4219-8a27-cb81e6fce383)
 
-### 📌 1. Wire Bond PBGA (Plastic Ball Grid Array)
+###  1. Wire Bond PBGA (Plastic Ball Grid Array)
 
 - **Structure**: Die is wire bonded to a laminate substrate; bottom has an array of solder balls.
 - **Mounting**: Surface-mount.
@@ -121,7 +121,7 @@ Laminate substrates are made of resin-reinforced fiberglass (like BT or ABF mate
 
 ---
 
-### 📌 2. Flip Chip PBGA (FC-PBGA)
+###  2. Flip Chip PBGA (FC-PBGA)
 
 - **Structure**: Die is mounted face-down (flip chip) directly onto laminate using solder bumps; BGA on bottom.
 - **Mounting**: Surface-mount.
@@ -133,7 +133,7 @@ Laminate substrates are made of resin-reinforced fiberglass (like BT or ABF mate
 
 ---
 
-### 📌 3. FC-CSP (Flip Chip Chip Scale Package)
+###  3. FC-CSP (Flip Chip Chip Scale Package)
 
 - **Structure**: Flip chip die on a small laminate substrate with solder balls.
 - **Mounting**: Surface-mount.
@@ -145,7 +145,7 @@ Laminate substrates are made of resin-reinforced fiberglass (like BT or ABF mate
 
 ---
 
-### 📌 4. LGA (Land Grid Array)
+###  4. LGA (Land Grid Array)
 
 - **Structure**: Flat contact pads on the bottom (no solder balls); connects via compression or solder paste to the board.
 - **Mounting**: Surface-mount.
@@ -156,7 +156,7 @@ Laminate substrates are made of resin-reinforced fiberglass (like BT or ABF mate
 
 ---
 
-### 🧠 Summary of Laminate-Based Packages
+###  Summary of Laminate-Based Packages
 
 | Package        | Die Attach     | Interconnect  | Mount Type     | Application Focus                |
 |----------------|----------------|----------------|----------------|----------------------------------|
