@@ -1,8 +1,8 @@
 # Module 1 - Packaging Evolution: From Basics to 3D Integration
 
-## 📘 Lesson 1: Introduction to Semiconductor Packaging and Industry Overview
+##  Lesson 1: Introduction to Semiconductor Packaging and Industry Overview
 
-### 🔹 What is Semiconductor Packaging?
+###  What is Semiconductor Packaging?
 
 Semiconductor packaging is the final step in the chip manufacturing process. It provides:
 - **Mechanical support**
@@ -14,7 +14,7 @@ It bridges the microscopic world of the IC with the macroscopic world of systems
 
 ---
 
-### 🧩 Key Packaging Components
+###  Key Packaging Components
 ![image](https://github.com/user-attachments/assets/732b581d-73d3-478c-a4c5-d47c09e52056)
 
 
@@ -28,11 +28,11 @@ It bridges the microscopic world of the IC with the macroscopic world of systems
 | **Trace**            | Copper lines on the substrate used for routing electrical signals. |
 | **Ball Grid Array (BGA)** | A package type where solder balls form the interface between the chip and the PCB. |
 
-## 🏭 Industry Overview: Where Packaging Fits in the Semiconductor Flow
+##  Industry Overview: Where Packaging Fits in the Semiconductor Flow
 
 Semiconductor packaging plays a critical role **after fabrication** and **before board-level integration**.
 
-### 📋 High-Level Chip Design to System Flow
+###  High-Level Chip Design to System Flow
 
 ![image](https://github.com/user-attachments/assets/1430f356-ddea-4805-8b60-cbbb35d096b9)
 
@@ -44,7 +44,7 @@ Semiconductor packaging plays a critical role **after fabrication** and **before
 6. **Wafer Fabrication** (in cleanroom)
 7. **Wafer Testing** (at the die level)
 8. **Wafer Dicing** (dies separated from the wafer)
-9. **📦 Packaging**
+9. **Packaging**
     - Die Attach  
     - Wire Bonding / Flip-Chip  
     - Encapsulation (Moulding Compound)  
@@ -54,7 +54,7 @@ Semiconductor packaging plays a critical role **after fabrication** and **before
 
 ---
 
-### 📦 Role of Packaging in the Industry
+###  Role of Packaging in the Industry
 
 - **Protects** the die from mechanical, chemical, and environmental damage.
 - **Connects** the internal die I/Os to external PCB signals.
