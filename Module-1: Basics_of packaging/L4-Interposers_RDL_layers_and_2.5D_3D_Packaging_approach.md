@@ -1,4 +1,4 @@
-## 🚀 Advanced Packaging Substrate Technologies
+##  Advanced Packaging Substrate Technologies
 
 As chip performance demands grow, traditional single-die packaging reaches its limits. Advanced packaging substrates enable integration of multiple dies with better performance, higher density, and improved power delivery.
 
@@ -6,13 +6,13 @@ As chip performance demands grow, traditional single-die packaging reaches its l
 
 ![image](https://github.com/user-attachments/assets/1e9e76e8-e4f1-4c20-aa51-fbccfbceb48b)
 
-## 🧩 Key Technologies: Interposers and RDL
+##  Key Technologies: Interposers and RDL
 
 Before diving into advanced packaging types, it's essential to understand the components that enable high-density integration: **Interposers** and **RDL (Redistribution Layers).**
 
 ---
 
-### 🧱 What is an Interposer?
+###  What is an Interposer?
 
 - **Definition**: An interposer is an intermediate layer—typically made of **silicon**, **glass**, or **organic material**—placed between multiple dies and the package substrate.
 - **Purpose**:
@@ -22,12 +22,12 @@ Before diving into advanced packaging types, it's essential to understand the co
   - **Passive Interposer**: Only routing (no active circuitry).
   - **Active Interposer**: Includes logic elements, buffers, or power regulation.
 
-#### 🧠 Example Use Case:
+####  Example Use Case:
 - In 2.5D packaging, a silicon interposer connects a processor die to HBM memory stacks.
 
 ---
 
-### 🔁 What is RDL (Redistribution Layer)?
+###  What is RDL (Redistribution Layer)?
 
 - **Definition**: RDL is a layer of metal wiring added during post-processing on top of the silicon wafer (or interposer) to **re-route** I/O pads to a different location or finer pitch.
 - **Purpose**:
@@ -35,12 +35,12 @@ Before diving into advanced packaging types, it's essential to understand the co
   - Used in both **Fan-Out Wafer Level Packaging (FOWLP)** and embedded bridge designs.
 - **Materials**: Typically made from copper traces on polymer dielectrics.
 
-#### 🧠 Example Use Case:
+####  Example Use Case:
 - In 2.1D packages, RDLs can route signals between chiplets embedded inside the substrate (like an "RDL bridge").
 
 ---
 
-### 🔍 Comparison
+###  Comparison
 
 | Feature             | Interposer                    | RDL                            |
 |---------------------|-------------------------------|--------------------------------|
@@ -53,7 +53,7 @@ Before diving into advanced packaging types, it's essential to understand the co
 
 
 
-### 📌 1. 2D Integration
+###  1. 2D Integration
 
 - **Structure**: Multiple dies mounted side-by-side on a standard organic laminate substrate (no additional silicon or interposer).
 - **Interconnect**: Wire bond or flip chip to the substrate.
@@ -66,7 +66,7 @@ Before diving into advanced packaging types, it's essential to understand the co
 
 ---
 
-### 📌 2.1D Integration
+###  2.1D Integration
 
 - **Structure**: 2D substrate with added **Embedded Bridge** or **RDL interposer** embedded inside the package substrate.
 - **Interconnect**: High-density routing between dies enabled by bridges.
@@ -77,7 +77,7 @@ Before diving into advanced packaging types, it's essential to understand the co
 
 ---
 
-### 📌 2.3D Integration
+###  2.3D Integration
 
 - **Structure**: Like 2.1D but with **embedded passive components** (e.g., capacitors, resistors) inside the substrate.
 - **Advantages**:
@@ -87,7 +87,7 @@ Before diving into advanced packaging types, it's essential to understand the co
 
 ---
 
-### 📌 2.5D Integration
+###  2.5D Integration
 
 - **Structure**: Multiple dies mounted on a passive **silicon interposer**, which provides high-density routing between them.
 - **Interconnect**: Flip chip bumps from die to interposer; interposer to substrate via TSVs (Through-Silicon Vias).
@@ -98,7 +98,7 @@ Before diving into advanced packaging types, it's essential to understand the co
 
 ---
 
-### 🧠 Summary: Advanced Substrate Types
+###  Summary: Advanced Substrate Types
 
 | Type   | Interposer Used     | Key Features                          | Complexity | Cost     |
 |--------|---------------------|----------------------------------------|------------|----------|
