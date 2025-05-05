@@ -1,4 +1,4 @@
-# 🧠 Fan-Out Wafer Level Packaging (FO-WLP) – Full Process Flow
+#  Fan-Out Wafer Level Packaging (FO-WLP) – Full Process Flow
 
 **Fan-Out Wafer Level Packaging (FO-WLP)** is an advanced packaging method that allows integration of a known good die (KGD) into a reconstituted wafer and builds interconnects through **Redistribution Layers (RDLs)**. It is highly beneficial for size reduction, higher I/O count, and better electrical performance.
 
