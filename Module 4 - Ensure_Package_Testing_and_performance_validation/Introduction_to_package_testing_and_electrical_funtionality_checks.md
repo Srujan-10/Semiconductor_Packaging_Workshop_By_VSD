@@ -79,7 +79,7 @@ This guide explains the full process of making and testing a chip — from raw s
 
 ---
 
-# 🏭 Packaging Plant Zones and Functions
+#  Packaging Plant Zones and Functions
 
 This document outlines different zones in a semiconductor packaging plant and what happens in each area.
 
@@ -101,7 +101,7 @@ This document outlines different zones in a semiconductor packaging plant and wh
 
 ---
 
-## 🔎 2. Inspection Area
+##  2. Inspection Area
 
 - Integrated into the process flow.
 - Used to check:
@@ -114,7 +114,7 @@ This document outlines different zones in a semiconductor packaging plant and wh
 
 ---
 
-## 🔌 3. Testing Area
+##  3. Testing Area
 
 - Chips are tested **after packaging**.
 - Tests include:
@@ -127,21 +127,21 @@ This document outlines different zones in a semiconductor packaging plant and wh
   - Chambers for thermal cycling
     ![image](https://github.com/user-attachments/assets/dbc225dd-31de-482a-8ecf-f13af29f400f)
 
-# 🔌 Assembly Open and Short Test (AOST)
+#  Assembly Open and Short Test (AOST)
 
 ## Objective
 Perform a **quick electrical and visual check** immediately after assembly to identify major defects such as shorts, opens, or physical damage on package leads or solder balls.
 
 ---
 
-## 🛠 When is AOST Performed?
+##  When is AOST Performed?
 
 - **After Trim and Form** (for lead-frame packages)
 - **After Singulation** (for BGA and similar packages)
 
 ---
 
-## ✅ AOST Checks
+##  AOST Checks
 
 1. **Electrical Open/Short Test**
    - Detects:
@@ -155,7 +155,7 @@ Perform a **quick electrical and visual check** immediately after assembly to id
 
 ---
 
-## 🧪 Product Grade Sort (PGSRT)
+##  Product Grade Sort (PGSRT)
 
 Packages are sorted based on test results:
 
@@ -170,19 +170,19 @@ Packages are sorted based on test results:
 
 ---
 
-## 🔄 Summary
+##  Summary
 
 - AOST is the **last checkpoint in assembly** before test.
 - It ensures **gross assembly failures** are caught early.
 - Helps reduce defective parts reaching customers.
 
-# 📦 FCBGA Package Warpage and Electrical Testing
+#  FCBGA Package Warpage and Electrical Testing
 
 This section describes the issues related to warpage in FCBGA packaging and the steps taken to perform quick electrical checks before final testing or shipment.
 
 ---
 
-## 🔄 Warpage Behavior
+##  Warpage Behavior
 
 - **FCBGA Package**: Tends to **concave (-)** when cooled.
 - **PCB (Printed Circuit Board)**: Often **convex (+)** during reflow.
@@ -191,7 +191,7 @@ This section describes the issues related to warpage in FCBGA packaging and the 
 
 ---
 
-## 🎯 Objective of Initial Testing
+##  Objective of Initial Testing
 
 To quickly detect **massive electrical failures** such as:
 - **Shorts**
@@ -204,14 +204,14 @@ This step happens right after:
 
 ---
 
-## 🧪 Open/Short Test
+##  Open/Short Test
 
 - Detects **electrical opens and shorts** in package leads or solder balls.
 - Prevents failed chips from reaching customers.
 
 ---
 
-## 🧿 Visual Inspection
+##  Visual Inspection
 
 - Checks for physical defects such as:
   - Missing balls
@@ -221,7 +221,7 @@ This step happens right after:
 
 ---
 
-## 🧩 Product Grade Sort (PGSRT)
+##  Product Grade Sort (PGSRT)
 
 Packages are graded based on assembly-related defects:
 
@@ -234,7 +234,7 @@ Packages are graded based on assembly-related defects:
 
 ---
 
-## ⚠️ Common Defects
+##  Common Defects
 
 - **Die Crack**: Crack in the silicon die.
 - **Short**: Unwanted electrical connection between traces/balls.
@@ -245,7 +245,7 @@ Packages are graded based on assembly-related defects:
 
 ---
 
-## 📐 Key Stack Components
+##  Key Stack Components
 
 - **Die** (chip)
 - **Package Substrate**
@@ -258,7 +258,7 @@ Packages are graded based on assembly-related defects:
 
 ---
 
-## 📌 Terms
+##  Terms
 
 - **Package Board**: A test board where packaged chips are mounted during electrical testing.
 - **Package Socket**: Special connectors that hold the chip in place for repeatable and safe testing.
