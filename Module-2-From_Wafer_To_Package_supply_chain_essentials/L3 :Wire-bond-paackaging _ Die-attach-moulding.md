@@ -1,12 +1,12 @@
-# 🔗 Wire Bond Packaging Flow – Semiconductor Packaging
+#  Wire Bond Packaging Flow – Semiconductor Packaging
 
 This document outlines the **Wire Bond Packaging Flow**, which is a critical process in semiconductor device assembly. The process involves several stages, from attaching the die to the substrate, wire bonding, to encapsulating and marking the finished package.
 
 ---
 
-## 📋 Step-by-Step Wire Bond Packaging Process
+##  Step-by-Step Wire Bond Packaging Process
 
-### 1️⃣ **Die Attach**
+### 1 **Die Attach**
 The **die attach** process involves securely attaching the silicon die to a substrate or lead frame, which provides the mechanical and electrical connections necessary for the chip to function.
 
 #### ➤ **Epoxy Dispense**
@@ -24,7 +24,7 @@ The **die attach** process involves securely attaching the silicon die to a subs
 
 ---
 
-### 2️⃣ **Curing**
+### 2 **Curing**
 After the die is attached to the substrate, the **epoxy or DAF** is cured to solidify the bond. 
 
 #### ➤ **Thermal Curing**
@@ -33,7 +33,7 @@ After the die is attached to the substrate, the **epoxy or DAF** is cured to sol
 
 ---
 
-### 3️⃣ **Wire Bonding**
+### 3️ **Wire Bonding**
 Wire bonding is the process of making electrical connections between the bond pads on the die and the pads on the lead frame or substrate. 
 
 #### ➤ **Thermosonic Bonding**
@@ -47,7 +47,7 @@ Wire bonding is the process of making electrical connections between the bond pa
 
 ---
 
-### 4️⃣ **Molding**
+### 4️ **Molding**
 The **molding process** involves encapsulating the wire-bonded die in a protective material to provide mechanical strength, **protection against environmental factors**, and **electrical insulation**.
 
 #### ➤ **Molding Compound**
@@ -59,7 +59,7 @@ The **molding process** involves encapsulating the wire-bonded die in a protecti
 
 ---
 
-### 5️⃣ **Marking (Laser)**
+### 5️ **Marking (Laser)**
 Once the die is fully encapsulated and protected, **laser marking** is used to inscribe important identification information on the surface of the package.
 
 #### ➤ **Laser Etching**
@@ -68,7 +68,7 @@ Once the die is fully encapsulated and protected, **laser marking** is used to i
 
 ---
 
-## 🧠 Summary Process Flow Diagram
+##  Summary Process Flow Diagram
 ![image](https://github.com/user-attachments/assets/49eb835b-b6d9-4f2d-8755-b948d9f39496)
 
 
