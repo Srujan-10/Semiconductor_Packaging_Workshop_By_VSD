@@ -1,10 +1,10 @@
-# 🧼 Wafer Preparation Process – ISO Class 7 Cleanroom
+#  Wafer Preparation Process – ISO Class 7 Cleanroom
 
 This repository documents the wafer preparation flow inside a cleanroom environment (ISO Class 7), typically used in semiconductor fabrication facilities. It outlines each key step from wafer arrival to packaging readiness.
 
 ---
 
-## 📋 Process Flow
+##  Process Flow
 
 ### 1. Incoming Wafer Carrier
 - Wafers arrive sealed in specialized carriers to prevent contamination.
