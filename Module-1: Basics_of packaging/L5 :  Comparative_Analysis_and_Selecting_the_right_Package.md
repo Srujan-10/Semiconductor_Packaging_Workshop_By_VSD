@@ -1,4 +1,4 @@
-## 🧠 Types of Interposers
+##  Types of Interposers
 
 Interposers come in various configurations depending on the number of chips, materials used, and whether they include Through-Silicon Vias (TSVs). Below are key types:
 
@@ -10,12 +10,12 @@ Interposers come in various configurations depending on the number of chips, mat
 
 ### 🔹 1. Based on Chip Configuration
 
-#### ✅ Single-Chip Interposer
+####  Single-Chip Interposer
 - Designed to interface **one chip** to the substrate.
 - Simpler routing and lower cost.
 - Common in basic silicon bridge designs.
 
-#### ✅ Multi-Chip Interposer
+####  Multi-Chip Interposer
 - Supports **multiple dies** side-by-side.
 - Enables high-density integration (e.g., CPU + HBM).
 - Used in 2.5D and heterogeneous integration platforms.
@@ -24,17 +24,17 @@ Interposers come in various configurations depending on the number of chips, mat
 
 ### 🔹 2. Based on Material and Thickness
 
-#### ✅ Thin-Film Interposer
+####  Thin-Film Interposer
 - Ultra-thin layers (often below 100 µm).
 - Uses advanced photolithography and deposition.
 - Enables high-resolution fine-pitch routing.
 
-#### ✅ Organic Interposer
+####  Organic Interposer
 - Made from resin-based material (e.g., Ajinomoto build-up film).
 - Lower cost than silicon; lower performance.
 - Suitable for high-volume, mid-range applications.
 
-#### ✅ Inorganic Interposer (e.g., Silicon, Glass)
+####  Inorganic Interposer (e.g., Silicon, Glass)
 - High electrical performance and precision.
 - Can integrate TSVs.
 - Preferred for high-end SoCs, GPUs, FPGAs.
@@ -43,24 +43,24 @@ Interposers come in various configurations depending on the number of chips, mat
 
 ### 🔹 3. Based on TSV (Through-Silicon Via) Usage
 
-#### ✅ TSV-less Interposer
+####  TSV-less Interposer
 - No vertical vias; relies on horizontal routing or RDL.
 - Cheaper and simpler to manufacture.
 - Used in 2.1D and some fan-out techniques.
 
-#### ✅ Passive TSV Interposer
+####  Passive TSV Interposer
 - Acts only as a **routing medium**.
 - TSVs connect dies to the substrate; **no active circuitry**.
 - Most common in 2.5D ICs (e.g., AMD Fiji GPU).
 
-#### ✅ Active TSV Interposer
+####  Active TSV Interposer
 - Includes **active circuits** like buffers, decoupling capacitors, power regulation.
 - Can reduce latency and improve signal integrity.
 - More complex and expensive; emerging in next-gen 3D SoCs.
 
 ---
 
-### 📊 Interposer Comparison Table
+###  Interposer Comparison Table
 
 | Type                  | Active Components | TSVs   | Material        | Use Case                         |
 |-----------------------|------------------|--------|------------------|----------------------------------|
@@ -104,7 +104,7 @@ Interposers come in various configurations depending on the number of chips, mat
 
 ---
 
-## ✅ When to Use What and Why in IC Packaging
+## When to Use What and Why in IC Packaging
 
 | Package Type | When to Use | Why to Use |
 |--------------|-------------|------------|
@@ -120,7 +120,7 @@ Interposers come in various configurations depending on the number of chips, mat
 
 ---
 
-## 🔍 Key Decision Factors
+##  Key Decision Factors
 
 - **Form Factor:** Use CSP or QFN for tiny footprints.
 - **Thermal / Electrical Performance:** Use LGA, Flip-Chip BGA, or 2.xD if power is high.
