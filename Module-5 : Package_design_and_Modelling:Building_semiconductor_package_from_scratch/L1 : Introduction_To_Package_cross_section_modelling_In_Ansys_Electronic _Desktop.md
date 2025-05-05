@@ -1,4 +1,4 @@
-# 🧩 Semiconductor Packaging Flow
+#  Semiconductor Packaging Flow
 
 This document outlines the key stages in semiconductor backend processing — from wafer fabrication exit to assembly and test readiness.
 
@@ -6,13 +6,13 @@ This document outlines the key stages in semiconductor backend processing — fr
 
 ![image](https://github.com/user-attachments/assets/179580da-a245-4bde-a235-2fc4d8a5c4f8)
 
-## 🧪 Front-End Exit: Wafer Leaves Fab
+##  Front-End Exit: Wafer Leaves Fab
 
 The wafer, containing multiple dies (chips), exits the fabrication facility after front-end processing is complete.
 
 ---
 
-## 🧼 Backend Process Flow
+##  Backend Process Flow
 
 ### 1. **Probe Testing**
 - Electrical test performed on each die while still on the wafer.
@@ -33,7 +33,7 @@ The wafer, containing multiple dies (chips), exits the fabrication facility afte
 
 ---
 
-## 🔧 Assembly & Packaging
+##  Assembly & Packaging
 
 ### 6. **Pick and Place**
 - Good dies are picked and placed onto the package substrate.
@@ -58,7 +58,7 @@ The wafer, containing multiple dies (chips), exits the fabrication facility afte
 
 ---
 
-## ✅ Final Stage
+##  Final Stage
 
 ### 12. **Part Ready for Electrical Testing**
 - The packaged device is now ready for:
@@ -69,7 +69,7 @@ The wafer, containing multiple dies (chips), exits the fabrication facility afte
 
 ---
 
-## 🔄 Summary
+##  Summary
 
 | Step                | Description                                      |
 |---------------------|--------------------------------------------------|
