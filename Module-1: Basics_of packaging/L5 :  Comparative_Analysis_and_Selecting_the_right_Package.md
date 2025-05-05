@@ -90,7 +90,7 @@ Interposers come in various configurations depending on the number of chips, mat
 
 ---
 
-### 📌 Definitions:
+### Definitions:
 
 - **QFN (Quad Flat No-Lead)**: Leadframe-based compact package, good for RF and small applications.
 - **QFP (Quad Flat Package)**: Traditional leaded package, mostly outdated for high-density.
