@@ -4,7 +4,7 @@ This guide explains the full process of making and testing a chip — from raw s
 
 ---
 
-## 1️⃣ Front-End Manufacturing (Foundry)
+## 1️ Front-End Manufacturing (Foundry)
 
 - Wafers are made in cleanrooms.
 - Transistors and circuits are built on silicon.
@@ -12,7 +12,7 @@ This guide explains the full process of making and testing a chip — from raw s
 
 ---
 
-## 2️⃣ Wafer Probe Test
+## 2️ Wafer Probe Test
 
 - Tiny needles (probe cards) touch each chip on the wafer.
 - Basic electrical tests are done.
@@ -20,7 +20,7 @@ This guide explains the full process of making and testing a chip — from raw s
   
 ---
 
-## 3️⃣ Wafer Sorting
+## 3️ Wafer Sorting
 
 - The test results are used to separate:
   - **Good dies** (for packaging)
@@ -28,7 +28,7 @@ This guide explains the full process of making and testing a chip — from raw s
 
 ---
 
-## 4️⃣ Package Manufacturing (OSAT)
+## 4️ Package Manufacturing (OSAT)
 
 - Chips are sent to OSAT companies for packaging.
 - Steps include:
@@ -38,7 +38,7 @@ This guide explains the full process of making and testing a chip — from raw s
 
 ---
 
-## 5️⃣ Package Testing
+## 5️ Package Testing
 
 - Electrical tests are done after packaging.
 - Verifies if the chip works correctly.
@@ -49,7 +49,7 @@ This guide explains the full process of making and testing a chip — from raw s
 
 ---
 
-## 6️⃣ System-Level Testing (SLT)
+## 6️ System-Level Testing (SLT)
 
 - Packaged chips are tested in real systems.
 - Ensures the chip works in practical use cases.
@@ -57,14 +57,14 @@ This guide explains the full process of making and testing a chip — from raw s
 
 ---
 
-## 7️⃣ Process Development
+## 7️ Process Development
 
 - Engineers improve and tune each step.
 - Helps make better, faster, and more reliable chips.
 
 ---
 
-## 8️⃣ Diagnosis & Failure Analysis
+## 8️ Diagnosis & Failure Analysis
 
 - If something fails, engineers find out why.
 - Uses tools like:
@@ -74,7 +74,7 @@ This guide explains the full process of making and testing a chip — from raw s
 
 ---
 
-## 📊 Complete Flow Summary
+##  Complete Flow Summary
 ![image](https://github.com/user-attachments/assets/f8de0952-e625-45bc-b48b-aa059538046d)
 
 ---
